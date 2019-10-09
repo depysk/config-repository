@@ -1,0 +1,4 @@
+some:
+  property: specific
+  other:
+    property: 'weather specific app property'
