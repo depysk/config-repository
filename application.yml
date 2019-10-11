@@ -1,4 +1,4 @@
 some:
-  property: global
+  property: cloudy
   other:
-    property: 'other global'
+    property: Paris
