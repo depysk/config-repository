@@ -1,4 +1,4 @@
 some:
-  property: specific
+  property: 'specific weather V2'
   other:
-    property: 'weather specific app property'
+    property: 'weather specific app property V2'
